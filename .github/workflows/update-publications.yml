@@ -1,0 +1,65 @@
+name: Update publications and deploy Pages
+
+on:
+  schedule:
+    - cron: '23 2 * * 1'
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: Refresh from Scholar before deploying
+        type: boolean
+        default: true
+  push:
+    branches: [main]
+
+concurrency:
+  group: ymhlab-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh))
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: Fetch and validate the Scholar snapshot
+        env:
+          SCHOLAR_AUTHOR_ID: ${{ vars.SCHOLAR_AUTHOR_ID || 'uVNpdf0AAAAJ' }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: python3 scripts/fetch_scholar.py
+      - name: Commit the updated bibliography
+        run: |
+          git add -- data/publications.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Update publication snapshot'
+          git push origin HEAD:main
+
+  deploy:
+    needs: refresh
+    if: always() && github.ref == 'refs/heads/main' && (needs.refresh.result == 'success' || needs.refresh.result == 'skipped')
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
