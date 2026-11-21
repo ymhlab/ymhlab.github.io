@@ -22,6 +22,8 @@ Only this directory belongs in the publishing repository. The surrounding worksp
 
 ## Edit Lab Atlas
 
+For new student profiles, use the submitted profile details and an approved photo. Keep the photo with the website under `assets/lab/` and publish it with the profile. Jaden Huynh’s entry is the exception until a new headshot is available.
+
 Edit `data/lab-atlas.json` to add a node, a source, or a relationship. Keep IDs stable and use local links such as `people.html#profile-01` for records with a page on this site. Use `todo` for missing or unverified facts. Only add edges backed by the listed `sourceIds`. Coauthorship edges also require shared `publicationIds` and matching authorship edges for both people. Theme groupings are editorial, and a paper cited by a project is recorded separately from a paper that reports on it.
 
 After editing, run `python3 scripts/render-atlas.py` from the website directory. This checks the records and regenerates the Atlas reading list, which works with JavaScript turned off. If an edit changes a paper’s finding or a person’s profile, also update the matching entry in `publications.html` or `people.html`.
