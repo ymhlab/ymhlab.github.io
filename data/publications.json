@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "source": "lab-curated",
+  "publications": [
+    {
+      "id": "paper-interoception",
+      "title": "Interoception in self-harm and suicide",
+      "year": 2026,
+      "url": "https://doi.org/10.1038/s41562-026-02490-9"
+    },
+    {
+      "id": "paper-gatekeeper",
+      "title": "School-based suicide prevention using the gatekeeper programme",
+      "year": 2026,
+      "url": "https://doi.org/10.1038/s44360-025-00037-2"
+    },
+    {
+      "id": "paper-digital",
+      "title": "Brief digital intervention for adolescents with non-suicidal self-injury",
+      "year": 2026,
+      "url": "https://doi.org/10.1111/jcpp.70054"
+    },
+    {
+      "id": "archive-paper-01",
+      "title": "Genetic and Neurobiological Mechanisms Underlying Transition in Self-Injury Thoughts and Behaviors During Adolescence",
+      "year": 2026,
+      "url": "https://doi.org/10.1192/bjp.2025.10300"
+    },
+    {
+      "id": "archive-paper-02",
+      "title": "Multitrait genome-wide association analysis of non-suicidal self-injury and the polygenetic effects on child psychopathology and brain structures",
+      "year": 2025,
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00192-2"
+    },
+    {
+      "id": "archive-paper-03",
+      "title": "Genetic approach uncovering the pathways between childhood maltreatment and suicide attempt",
+      "year": 2025,
+      "url": "https://www.nature.com/articles/s41380-025-02966-6"
+    },
+    {
+      "id": "archive-paper-04",
+      "title": "Understanding Social Influence of Non-Suicidal Self-Injury: The Interplay of Peer Networks and Adolescent Behavior",
+      "year": 2025,
+      "url": "https://link.springer.com/article/10.1007/s10964-025-02178-9"
+    },
+    {
+      "id": "archive-paper-05",
+      "title": "School mental health prevention and intervention strategies in China: a scoping review",
+      "year": 2024,
+      "url": "https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00237-2/fulltext"
+    },
+    {
+      "id": "archive-paper-06",
+      "title": "Complex posttraumatic stress disorder (CPTSD) is uniquely linked to suicidality beyond posttraumatic stress disorder (PTSD) in adults with childhood maltreatment: A multinational study across four countries",
+      "year": 2024,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0277953624008608"
+    },
+    {
+      "id": "archive-paper-07",
+      "title": "Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large Language Models",
+      "year": 2024,
+      "url": "https://arxiv.org/abs/2406.03882"
+    },
+    {
+      "id": "archive-paper-08",
+      "title": "The p factor outweighs the specific internalizing factor in predicting recurrences of adolescent depression",
+      "year": 2024,
+      "url": "https://www.cambridge.org/core/journals/european-psychiatry/article/p-factor-outweighs-the-specific-internalizing-factor-in-predicting-recurrences-of-adolescent-depression/9A5C35C5AA47CAC621B7CA8CB55C9BC9"
+    },
+    {
+      "id": "archive-paper-09",
+      "title": "Can digital self-harm relate to suicidal thoughts and behaviors beyond physical self-harm?",
+      "year": 2024,
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/acps.13658"
+    },
+    {
+      "id": "archive-paper-10",
+      "title": "Brain structural and functional signatures of multi-generational family history of suicidal behaviors in preadolescent children",
+      "year": 2024,
+      "url": "https://www.nature.com/articles/s41380-023-02342-2"
+    },
+    {
+      "id": "archive-paper-11",
+      "title": "Effectiveness of a localised and systematically developed gatekeeper training program in preventing suicide among Chinese adolescents",
+      "year": 2023,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1876201823003118"
+    },
+    {
+      "id": "archive-paper-12",
+      "title": "Development of the Life Gatekeeper suicide prevention training programme in China: a Delphi study",
+      "year": 2023,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10582848/"
+    },
+    {
+      "id": "archive-paper-13",
+      "title": "Ecological Momentary Assessment and Machine Learning for Predicting Suicidal Ideation Among Sexual and Gender Minority Individuals",
+      "year": 2023,
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2809148"
+    },
+    {
+      "id": "archive-paper-14",
+      "title": "Non-suicidal self-injury in Chinese population: a scoping review of prevalence, method, risk factors and preventive interventions",
+      "year": 2023,
+      "url": "https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(23)00112-8/fulltext"
+    },
+    {
+      "id": "archive-paper-15",
+      "title": "Associations of bullying perpetration and peer victimization subtypes with preadolescent's suicidality, non-suicidal self-injury, neurocognition, and brain development",
+      "year": 2023,
+      "url": "https://link.springer.com/article/10.1186/s12916-023-02808-8"
+    },
+    {
+      "id": "archive-paper-16",
+      "title": "A multicomponent digital intervention to promote help-seeking for mental health problems and suicide in sexual and gender diverse young adults: a randomized controlled trial",
+      "year": 2023,
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004197"
+    },
+    {
+      "id": "archive-paper-17",
+      "title": "The transition trajectories of self-injurious thoughts and behaviours among children from a biopsychosocial perspective",
+      "year": 2023,
+      "url": "https://www.nature.com/articles/s44220-023-00130-z"
+    },
+    {
+      "id": "archive-paper-18",
+      "title": "Blind box over-engagement and suicide risk among adolescents and young adults: results of a large-scale survey",
+      "year": 2022,
+      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00305-4/fulltext"
+    },
+    {
+      "id": "archive-paper-19",
+      "title": "Precision biomarkers for mood disorders based on brain imaging",
+      "year": 2020,
+      "url": "https://www.bmj.com/content/371/bmj.m3618.abstract"
+    }
+  ]
+}

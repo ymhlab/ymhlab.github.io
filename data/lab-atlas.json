@@ -1,0 +1,2976 @@
+{
+  "schemaVersion": 1,
+  "nodes": [
+    {
+      "id": "development",
+      "type": "theme",
+      "title": "Epidemiology and developmental risk",
+      "summary": "Browse documented projects and papers in this area.",
+      "url": "research.html#development",
+      "sourceIds": [
+        "research"
+      ],
+      "shortTitle": "Epidemiology"
+    },
+    {
+      "id": "interoception",
+      "type": "theme",
+      "title": "Interoception and brain–body mechanisms",
+      "summary": "Browse documented projects and papers in this area.",
+      "url": "research.html#interoception",
+      "sourceIds": [
+        "research"
+      ],
+      "shortTitle": "Brain–body research"
+    },
+    {
+      "id": "schools",
+      "type": "theme",
+      "title": "School-based suicide and self-injury prevention",
+      "summary": "Browse documented projects and papers in this area.",
+      "url": "research.html#schools",
+      "sourceIds": [
+        "research"
+      ],
+      "shortTitle": "School prevention"
+    },
+    {
+      "id": "digital",
+      "type": "theme",
+      "title": "Digital assessment and interventions",
+      "summary": "Browse documented projects and papers in this area.",
+      "url": "research.html#digital",
+      "sourceIds": [
+        "research"
+      ],
+      "shortTitle": "Digital mental health"
+    },
+    {
+      "id": "person-runsen-chen",
+      "type": "person",
+      "title": "Runsen Chen",
+      "summary": "Psychiatric epidemiology, psychopathology, and interventions in children and adolescents.",
+      "url": "people.html#profile-01",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Principal Investigator",
+      "expertise": "Psychiatric epidemiology, psychopathology, and interventions in children and adolescents."
+    },
+    {
+      "id": "person-diyang-qu",
+      "type": "person",
+      "title": "Diyang Qu",
+      "summary": "NSSI, Suicide, Youth Mental Health.",
+      "url": "people.html#profile-02",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Co-Principal Investigator",
+      "expertise": "NSSI, Suicide, Youth Mental Health."
+    },
+    {
+      "id": "person-zhijun-wu",
+      "type": "person",
+      "title": "Zhijun Wu",
+      "summary": "Mental health of children and adolescents, suicidal ideation and behavior, child development, and intergenerational transmission between parents and children.",
+      "url": "people.html#profile-03",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Post-doc Fellow",
+      "expertise": "Mental health of children and adolescents, suicidal ideation and behavior, child development, and intergenerational transmission between parents and children."
+    },
+    {
+      "id": "person-weijia-li",
+      "type": "person",
+      "title": "Weijia Li",
+      "summary": "Mental health, social and emotional functions, family upbringing, social cognitive development, and suicide risk of children and adolescents.",
+      "url": "people.html#profile-04",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Post-doc Fellow",
+      "expertise": "Mental health, social and emotional functions, family upbringing, social cognitive development, and suicide risk of children and adolescents."
+    },
+    {
+      "id": "person-zihang-su",
+      "type": "person",
+      "title": "Zihang Su",
+      "summary": "Depression, suicide, affective computing, artificial intelligence.",
+      "url": "people.html#profile-05",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Post-Doctoral Fellow",
+      "expertise": "Depression, suicide, affective computing, artificial intelligence."
+    },
+    {
+      "id": "person-xiaoyu-lv",
+      "type": "person",
+      "title": "Xiaoyu Lv",
+      "summary": "Suicidal behavior, artificial intelligence, computational neuroscience, neuroimaging.",
+      "url": "people.html#profile-06",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Post-Doctoral Fellow",
+      "expertise": "Suicidal behavior, artificial intelligence, computational neuroscience, neuroimaging."
+    },
+    {
+      "id": "person-chang-liu",
+      "type": "person",
+      "title": "Chang Liu",
+      "summary": "Intervention on mental health, cognitive function, depression, suicidal ideation and behavior, and physical activity of children and adolescents.",
+      "url": "people.html#profile-07",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Post-Doctoral Fellow",
+      "expertise": "Intervention on mental health, cognitive function, depression, suicidal ideation and behavior, and physical activity of children and adolescents."
+    },
+    {
+      "id": "person-yongtian-cheng",
+      "type": "person",
+      "title": "Yongtian Cheng",
+      "summary": "My research lies at the intersection of quantitative psychology and supervised machine learning.",
+      "url": "people.html#profile-08",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Data Scientist",
+      "expertise": "My research lies at the intersection of quantitative psychology and supervised machine learning."
+    },
+    {
+      "id": "person-quan-zhang",
+      "type": "person",
+      "title": "Quan Zhang",
+      "summary": "Adolescent mental health, digital mental health intervention.",
+      "url": "people.html#profile-09",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Ph.D. student",
+      "expertise": "Adolescent mental health, digital mental health intervention."
+    },
+    {
+      "id": "person-chang-lei",
+      "type": "person",
+      "title": "Chang Lei",
+      "summary": "Prediction and mechanism exploration of non-suicidal self-injury and suicide, real-time monitoring, and large-scale longitudinal studies.",
+      "url": "people.html#profile-10",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Ph.D. student",
+      "expertise": "Prediction and mechanism exploration of non-suicidal self-injury and suicide, real-time monitoring, and large-scale longitudinal studies."
+    },
+    {
+      "id": "person-yinan-duan",
+      "type": "person",
+      "title": "Yinan Duan",
+      "summary": "Adolescent mental health, addictive behavior, lifestyle, and suicide behavior.",
+      "url": "people.html#profile-11",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Ph.D. student",
+      "expertise": "Adolescent mental health, addictive behavior, lifestyle, and suicide behavior."
+    },
+    {
+      "id": "person-xue-wen",
+      "type": "person",
+      "title": "Xue Wen",
+      "summary": "Developmental Psychiatry, Brain Mechanism, Artificial Intelligence.",
+      "url": "people.html#profile-12",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "PH.D. student",
+      "expertise": "Developmental Psychiatry, Brain Mechanism, Artificial Intelligence."
+    },
+    {
+      "id": "person-yisheng-aku",
+      "type": "person",
+      "title": "Yisheng Aku",
+      "summary": "Physical Education and Athletic Training, Sports Interventions for Mental Health, Youth Mental Health Sports Interventions.",
+      "url": "people.html#profile-13",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "PH.D. student",
+      "expertise": "Physical Education and Athletic Training, Sports Interventions for Mental Health, Youth Mental Health Sports Interventions."
+    },
+    {
+      "id": "person-bowen-liu",
+      "type": "person",
+      "title": "Bowen Liu",
+      "summary": "Child and Adolescent Mental Health, Symptom Network Analysis, Prevention and Intervention Strategies.",
+      "url": "people.html#profile-14",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "PH.D. student",
+      "expertise": "Child and Adolescent Mental Health, Symptom Network Analysis, Prevention and Intervention Strategies."
+    },
+    {
+      "id": "person-yunzhi-ding",
+      "type": "person",
+      "title": "Yunzhi Ding",
+      "summary": "Adolescent mental health,digital psychological intervention.",
+      "url": "people.html#profile-15",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "MPH student",
+      "expertise": "Adolescent mental health,digital psychological intervention."
+    },
+    {
+      "id": "person-shihui-wang",
+      "type": "person",
+      "title": "Shihui Wang",
+      "summary": "Adolescent mental health, pain sensitivity and non-suicidal self-injury in adolescents.",
+      "url": "people.html#profile-16",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "MPH student 2023 intake",
+      "expertise": "Adolescent mental health, pain sensitivity and non-suicidal self-injury in adolescents."
+    },
+    {
+      "id": "person-zhining-fu",
+      "type": "person",
+      "title": "Zhining Fu",
+      "summary": "Adolescent mental health,non-suicidal self-injury (NSSI) and suicide.",
+      "url": "people.html#profile-17",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "MPH Student",
+      "expertise": "Adolescent mental health,non-suicidal self-injury (NSSI) and suicide."
+    },
+    {
+      "id": "person-yuhan-zhang",
+      "type": "person",
+      "title": "Yuhan Zhang",
+      "summary": "BetrayaAdolescent mental health, digital mental health intervention，non-suicidal self-injury (NSSI) and suicide.",
+      "url": "people.html#profile-18",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "MPH student",
+      "expertise": "BetrayaAdolescent mental health, digital mental health intervention，non-suicidal self-injury (NSSI) and suicide."
+    },
+    {
+      "id": "person-xuan-geng",
+      "type": "person",
+      "title": "Xuan Geng",
+      "summary": "Digital mental health intervention，non-suicidal self-injury (NSSI) and suicide.",
+      "url": "people.html#profile-19",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Pre-MPH student",
+      "expertise": "Digital mental health intervention，non-suicidal self-injury (NSSI) and suicide."
+    },
+    {
+      "id": "person-yuqi-li",
+      "type": "person",
+      "title": "Yuqi Li",
+      "summary": "Betrayal trauma，Adolescent psychological counseling，Non-suicidal self-injury in adolescents，Suicide intervention.",
+      "url": "people.html#profile-20",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "MPH student",
+      "expertise": "Betrayal trauma，Adolescent psychological counseling，Non-suicidal self-injury in adolescents，Suicide intervention."
+    },
+    {
+      "id": "person-yuxin-zu",
+      "type": "person",
+      "title": "Yuxin Zu",
+      "summary": "Adolescent mental health，Intersection of public health and adolescent mental health，Psychological well-being of adolescents.",
+      "url": "people.html#profile-21",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "MPH student",
+      "expertise": "Adolescent mental health，Intersection of public health and adolescent mental health，Psychological well-being of adolescents."
+    },
+    {
+      "id": "person-qianqian-chen",
+      "type": "person",
+      "title": "Qianqian Chen",
+      "summary": "Mental Health, Youth and adolescent.",
+      "url": "people.html#profile-22",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "MPH student",
+      "expertise": "Mental Health, Youth and adolescent."
+    },
+    {
+      "id": "person-pengxuan-zhou",
+      "type": "person",
+      "title": "Pengxuan Zhou",
+      "summary": "Adolescent mental health , Non-suicidal self-injury and suicide in Adolescent , digital mental health intervention.",
+      "url": "people.html#profile-23",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "MPH student",
+      "expertise": "Adolescent mental health , Non-suicidal self-injury and suicide in Adolescent , digital mental health intervention."
+    },
+    {
+      "id": "person-shuohan-yang",
+      "type": "person",
+      "title": "Shuohan Yang",
+      "summary": "Zhili College, Tsinghua University",
+      "url": "people.html#undergraduate-1",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Zhili College, Tsinghua University",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-dennis-chong",
+      "type": "person",
+      "title": "Dennis Chong",
+      "summary": "Department of Psychology, Tsinghua University",
+      "url": "people.html#undergraduate-2",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Department of Psychology, Tsinghua University",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-yumeng-xu",
+      "type": "person",
+      "title": "Yumeng Xu",
+      "summary": "Department of Biology, Tsinghua Unviersity",
+      "url": "people.html#undergraduate-3",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Department of Biology, Tsinghua Unviersity",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-jintao-guo",
+      "type": "person",
+      "title": "Jintao Guo",
+      "summary": "School of health humanities, Peking University",
+      "url": "people.html#undergraduate-4",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "School of health humanities, Peking University",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-sihan-liu",
+      "type": "person",
+      "title": "Sihan Liu",
+      "summary": "Department of Psychological and Cognitive Sciences, Tsinghua University",
+      "url": "people.html#undergraduate-5",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Department of Psychological and Cognitive Sciences, Tsinghua University",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-weijian-wu",
+      "type": "person",
+      "title": "Weijian Wu",
+      "summary": "Personal Identity, School Bullying, Bystander Behavior, Verbal Function, Stress and Motivation.",
+      "url": "people.html#profile-24",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Research Assistant",
+      "expertise": "Personal Identity, School Bullying, Bystander Behavior, Verbal Function, Stress and Motivation."
+    },
+    {
+      "id": "person-zejia-cao",
+      "type": "person",
+      "title": "Zejia Cao",
+      "summary": "Cross-cultural Developmental Psychology, adolescent mental disorders, and Children Creativity.",
+      "url": "people.html#profile-25",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Research Assistant",
+      "expertise": "Cross-cultural Developmental Psychology, adolescent mental disorders, and Children Creativity."
+    },
+    {
+      "id": "person-zhenxing-zhang",
+      "type": "person",
+      "title": "Zhenxing Zhang",
+      "summary": "The EMA of NSSI and self-harm； Co-morbidities of mental illness in NSSI and self-harm； Neural signatures of NSSI on risk decision and Pain management.",
+      "url": "people.html#profile-26",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Research Assistant",
+      "expertise": "The EMA of NSSI and self-harm； Co-morbidities of mental illness in NSSI and self-harm； Neural signatures of NSSI on risk decision and Pain management."
+    },
+    {
+      "id": "person-shan-zhang",
+      "type": "person",
+      "title": "Shan Zhang",
+      "summary": "Prevention, early identification and intervention of mental health problems.",
+      "url": "people.html#profile-27",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Research Assistant",
+      "expertise": "Prevention, early identification and intervention of mental health problems."
+    },
+    {
+      "id": "person-yanpeng-jin",
+      "type": "person",
+      "title": "Yanpeng Jin",
+      "summary": "Psychotherapeutic strategies for anxiety disorders and affective disorders，Emotional and behavioral adaptation issues in children and adolescents under distress.",
+      "url": "people.html#profile-28",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Research Assistant",
+      "expertise": "Psychotherapeutic strategies for anxiety disorders and affective disorders，Emotional and behavioral adaptation issues in children and adolescents under distress."
+    },
+    {
+      "id": "person-jingyan-yan",
+      "type": "person",
+      "title": "Jingyan Yan",
+      "summary": "Adolescent mental health, cohort study, suicide behavior, and the intervention of adolescents with non-suicidal self-injury.",
+      "url": "people.html#profile-29",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Research Assistant",
+      "expertise": "Adolescent mental health, cohort study, suicide behavior, and the intervention of adolescents with non-suicidal self-injury."
+    },
+    {
+      "id": "person-tongtong-cai",
+      "type": "person",
+      "title": "Tongtong Cai",
+      "summary": "Emotional regulation of adolescents, school adjustment of Average-achieving students,.",
+      "url": "people.html#profile-30",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Research Assistant",
+      "expertise": "Emotional regulation of adolescents, school adjustment of Average-achieving students,."
+    },
+    {
+      "id": "person-yaoze-liu",
+      "type": "person",
+      "title": "Yaoze Liu",
+      "summary": "Cognitive neuroscience, mental health, suicide, NSSI.",
+      "url": "people.html#profile-31",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Research Assistant",
+      "expertise": "Cognitive neuroscience, mental health, suicide, NSSI."
+    },
+    {
+      "id": "person-dongyu-liu",
+      "type": "person",
+      "title": "Dongyu Liu",
+      "summary": "Ph.D. inPublic Health, University of Hong Kong",
+      "url": "people.html#person-dongyu-liu",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-chengxi-cai",
+      "type": "person",
+      "title": "Chengxi Cai",
+      "summary": "Professional doctorate in clinical psychology, University of East London",
+      "url": "people.html#person-chengxi-cai",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-jinman-jiang",
+      "type": "person",
+      "title": "Jinman Jiang",
+      "summary": "Ph.D. in psychology, University College London",
+      "url": "people.html#person-jinman-jiang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-yanwen-zhang",
+      "type": "person",
+      "title": "Yanwen Zhang",
+      "summary": "Lecturer in Department of Psychology, Guangzhou Baiyun College",
+      "url": "people.html#person-yanwen-zhang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-xueer-duan",
+      "type": "person",
+      "title": "Xueer Duan",
+      "summary": "Ph.D. in Psychology, South China Normal University",
+      "url": "people.html#person-xueer-duan",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-peishan-jiang",
+      "type": "person",
+      "title": "Peishan Jiang",
+      "summary": "Graduate student, Peking University",
+      "url": "people.html#person-peishan-jiang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-yinzhe-wang",
+      "type": "person",
+      "title": "Yinzhe Wang",
+      "summary": "Practice of Clinical Psychologist in New York",
+      "url": "people.html#person-yinzhe-wang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-zimo-huang",
+      "type": "person",
+      "title": "Zimo Huang",
+      "summary": "Graduate student in neuroscience, University College London",
+      "url": "people.html#person-zimo-huang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-xue-yang",
+      "type": "person",
+      "title": "Xue Yang",
+      "summary": "Ph.D. in Psychology Capital Normal University",
+      "url": "people.html#person-xue-yang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-daixi-ren",
+      "type": "person",
+      "title": "Daixi Ren",
+      "summary": "Ph.D. in Psychology, Central South University PHD student Research Assistant",
+      "url": "people.html#person-daixi-ren",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-ziqian-wei",
+      "type": "person",
+      "title": "Ziqian Wei",
+      "summary": "Listed in the lab alumni directory.",
+      "url": "people.html#person-ziqian-wei",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-yuhao-he",
+      "type": "person",
+      "title": "Yuhao He",
+      "summary": "Research Assistant",
+      "url": "people.html#person-yuhao-he",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-jiaao-yu",
+      "type": "person",
+      "title": "Jiaao Yu",
+      "summary": "Research assistant",
+      "url": "people.html#person-jiaao-yu",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-yating-deng",
+      "type": "person",
+      "title": "Yating Deng",
+      "summary": "Lab manager",
+      "url": "people.html#person-yating-deng",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-ziqi-liu",
+      "type": "person",
+      "title": "Ziqi Liu",
+      "summary": "Research assistant",
+      "url": "people.html#person-ziqi-liu",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-ning-yue",
+      "type": "person",
+      "title": "Ning Yue",
+      "summary": "Research assistant",
+      "url": "people.html#person-ning-yue",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-xuan-zhang",
+      "type": "person",
+      "title": "Xuan Zhang",
+      "summary": "Research assistant",
+      "url": "people.html#person-xuan-zhang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-yifan-qin",
+      "type": "person",
+      "title": "Yifan Qin",
+      "summary": "Research assistant",
+      "url": "people.html#person-yifan-qin",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-kunxu-liu",
+      "type": "person",
+      "title": "Kunxu Liu",
+      "summary": "Research assistant",
+      "url": "people.html#person-kunxu-liu",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-xiaoyu-xu",
+      "type": "person",
+      "title": "Xiaoyu Xu",
+      "summary": "MPH studnet",
+      "url": "people.html#person-xiaoyu-xu",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-dongyang-chen",
+      "type": "person",
+      "title": "Dongyang Chen",
+      "summary": "Research assistant",
+      "url": "people.html#person-dongyang-chen",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-linshanjie-da",
+      "type": "person",
+      "title": "Linshanjie Da",
+      "summary": "Research assistant",
+      "url": "people.html#person-linshanjie-da",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-anni-zhu",
+      "type": "person",
+      "title": "Anni Zhu",
+      "summary": "Research assistant",
+      "url": "people.html#person-anni-zhu",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-liying-che",
+      "type": "person",
+      "title": "Liying Che",
+      "summary": "Research assistant",
+      "url": "people.html#person-liying-che",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-can-zhu",
+      "type": "person",
+      "title": "Can Zhu",
+      "summary": "MPH studnet",
+      "url": "people.html#person-can-zhu",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-chen-yin",
+      "type": "person",
+      "title": "Chen Yin",
+      "summary": "MPH student",
+      "url": "people.html#person-chen-yin",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-jiajia-ren",
+      "type": "person",
+      "title": "Jiajia Ren",
+      "summary": "MPH Student",
+      "url": "people.html#person-jiajia-ren",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-yajing-sun",
+      "type": "person",
+      "title": "Yajing Sun",
+      "summary": "Post-doc fellow",
+      "url": "people.html#person-yajing-sun",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-juan-wang",
+      "type": "person",
+      "title": "Juan Wang",
+      "summary": "Post-doc fellow",
+      "url": "people.html#person-juan-wang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-meng-han",
+      "type": "person",
+      "title": "Meng Han",
+      "summary": "Post-doc fellow",
+      "url": "people.html#person-meng-han",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-mei-yu",
+      "type": "person",
+      "title": "Mei Yu",
+      "summary": "Post-doc fellow",
+      "url": "people.html#person-mei-yu",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "person-huagen-wang",
+      "type": "person",
+      "title": "Huagen Wang",
+      "summary": "Post-doc fellow",
+      "url": "people.html#person-huagen-wang",
+      "sourceIds": [
+        "people"
+      ],
+      "role": "Alumni",
+      "todo": [
+        "Add a verified one-line expertise summary."
+      ]
+    },
+    {
+      "id": "neuroscience",
+      "type": "project",
+      "title": "Cognitive and developmental neuroscience of suicide and non-suicidal self-injury",
+      "summary": "Studies brain development and cognitive factors linked to suicide and non-suicidal self-injury.",
+      "url": "project-neuroscience.html",
+      "sourceIds": [
+        "neuroscience"
+      ]
+    },
+    {
+      "id": "a-help",
+      "type": "project",
+      "title": "Adolescent Health Enhancing Long-term Plan (A-HELP)",
+      "summary": "Prospective cohort study on suicidal thoughts and behaviors among children and adolescents in China.",
+      "url": "project-a-help.html",
+      "sourceIds": [
+        "a-help"
+      ]
+    },
+    {
+      "id": "school-prevention",
+      "type": "project",
+      "title": "Universal prevention of non-suicidal self-injury",
+      "summary": "Develops a school-based program to prevent non-suicidal self-injury.",
+      "url": "project-school-prevention.html",
+      "sourceIds": [
+        "school-prevention"
+      ]
+    },
+    {
+      "id": "life-gatekeeper",
+      "type": "project",
+      "title": "Life Gatekeeper training",
+      "summary": "Trains teachers to recognize students at risk and respond.",
+      "url": "project-life-gatekeeper.html",
+      "sourceIds": [
+        "life-gatekeeper"
+      ]
+    },
+    {
+      "id": "virtual-reality",
+      "type": "project",
+      "title": "Virtual reality for mental health",
+      "summary": "Explores virtual reality interventions for youth mental health.",
+      "url": "project-virtual-reality.html",
+      "sourceIds": [
+        "virtual-reality"
+      ]
+    },
+    {
+      "id": "tea",
+      "type": "project",
+      "title": "Training for Emotional Adaptation (TEA)",
+      "summary": "Develops an online emotion regulation program.",
+      "url": "project-tea.html",
+      "sourceIds": [
+        "tea"
+      ]
+    },
+    {
+      "id": "speech",
+      "type": "project",
+      "title": "Speech-based suicide risk research",
+      "summary": "Studies speech-based approaches to assessing suicide risk.",
+      "url": "project-speech.html",
+      "sourceIds": [
+        "speech"
+      ]
+    },
+    {
+      "id": "monitoring",
+      "type": "project",
+      "title": "Real-time monitoring and intervention",
+      "summary": "Evaluates app-based monitoring and support.",
+      "url": "project-monitoring.html",
+      "sourceIds": [
+        "monitoring"
+      ]
+    },
+    {
+      "id": "paper-interoception",
+      "type": "publication",
+      "title": "Interoception in self-harm and suicide",
+      "summary": "Across 66 studies, greater trust in bodily signals was associated with fewer suicidal thoughts and behaviors.",
+      "url": "publications.html#paper-interoception",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "year": 2026,
+      "todo": [
+        "Confirm any relationship to a named lab project.",
+        "Add any remaining authors after confirming their directory records."
+      ],
+      "featuredNote": "A starting point for the lab’s work on how people sense and interpret body signals."
+    },
+    {
+      "id": "paper-gatekeeper",
+      "type": "publication",
+      "title": "School-based suicide prevention using the gatekeeper programme",
+      "summary": "In an 84-school trial, trained teachers reported greater confidence and willingness to intervene. Differences persisted at 12 months.",
+      "url": "publications.html#paper-gatekeeper",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "year": 2026,
+      "todo": [
+        "Add any remaining authors after confirming their directory records."
+      ],
+      "featuredNote": "A starting point for how the lab evaluates prevention programs in schools."
+    },
+    {
+      "id": "paper-digital",
+      "type": "publication",
+      "title": "Brief digital intervention for adolescents with non-suicidal self-injury",
+      "summary": "Text-message support reduced self-injury at four weeks in a trial of 86 adolescents. The difference was no longer statistically significant at eight weeks.",
+      "url": "publications.html#paper-digital",
+      "sourceIds": [
+        "source-paper-digital"
+      ],
+      "year": 2026,
+      "todo": [
+        "Confirm any relationship to a named lab project.",
+        "Add any remaining authors after confirming their directory records."
+      ],
+      "featuredNote": "A starting point for the lab’s trials of digital support."
+    },
+    {
+      "id": "archive-paper-01",
+      "type": "publication",
+      "title": "Genetic and Neurobiological Mechanisms Underlying Transition in Self-Injury Thoughts and Behaviors During Adolescence",
+      "summary": "Genetic risk and changes in brain structure and function were associated with changes in self-injury thoughts and behaviors during adolescence.",
+      "url": "publications.html#archive-paper-01",
+      "sourceIds": [
+        "source-archive-paper-01"
+      ],
+      "year": 2026,
+      "todo": [
+        "Confirm any relationship to a named lab project.",
+        "Add any remaining authors after confirming their directory records."
+      ]
+    },
+    {
+      "id": "archive-paper-02",
+      "type": "publication",
+      "title": "Multitrait genome-wide association analysis of non-suicidal self-injury and the polygenetic effects on child psychopathology and brain structures",
+      "summary": "An analysis combining genetic data across related outcomes identified three regions associated with non-suicidal self-injury.",
+      "url": "publications.html#archive-paper-02",
+      "sourceIds": [
+        "source-archive-paper-02"
+      ],
+      "year": 2025,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-03",
+      "type": "publication",
+      "title": "Genetic approach uncovering the pathways between childhood maltreatment and suicide attempt",
+      "summary": "Genetic analyses linked childhood maltreatment with suicide attempts and identified several possible pathways through mental health symptoms.",
+      "url": "publications.html#archive-paper-03",
+      "sourceIds": [
+        "source-archive-paper-03"
+      ],
+      "year": 2025,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-04",
+      "type": "publication",
+      "title": "Understanding Social Influence of Non-Suicidal Self-Injury: The Interplay of Peer Networks and Adolescent Behavior",
+      "summary": "Adolescents with more friends who self-injured were more likely to report self-injury themselves.",
+      "url": "publications.html#archive-paper-04",
+      "sourceIds": [
+        "source-archive-paper-04"
+      ],
+      "year": 2025,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-05",
+      "type": "publication",
+      "title": "School mental health prevention and intervention strategies in China: a scoping review",
+      "summary": "A review of 77 studies found regional gaps and limited coordination between school screening, prevention, and treatment in China.",
+      "url": "publications.html#archive-paper-05",
+      "sourceIds": [
+        "source-archive-paper-05"
+      ],
+      "year": 2024,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-06",
+      "type": "publication",
+      "title": "Complex posttraumatic stress disorder (CPTSD) is uniquely linked to suicidality beyond posttraumatic stress disorder (PTSD) in adults with childhood maltreatment: A multinational study across four countries",
+      "summary": "Among adults with a history of childhood maltreatment, complex PTSD was associated with more suicidal thoughts or behaviors than PTSD alone.",
+      "url": "publications.html#archive-paper-06",
+      "sourceIds": [
+        "source-archive-paper-06"
+      ],
+      "year": 2024,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project.",
+        "Confirm whether this paper fits a current research theme."
+      ]
+    },
+    {
+      "id": "archive-paper-07",
+      "type": "publication",
+      "title": "Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large Language Models",
+      "summary": "The study tested whether combining speech and language features from Mandarin recordings could help identify suicide risk in adolescents.",
+      "url": "publications.html#archive-paper-07",
+      "sourceIds": [
+        "source-archive-paper-07"
+      ],
+      "year": 2024,
+      "todo": [
+        "Verify the author list against the paper and the lab directory."
+      ]
+    },
+    {
+      "id": "archive-paper-08",
+      "type": "publication",
+      "title": "The p factor outweighs the specific internalizing factor in predicting recurrences of adolescent depression",
+      "summary": "A broad measure of mental health symptoms predicted depression recurrence over two years among adolescents in remission.",
+      "url": "publications.html#archive-paper-08",
+      "sourceIds": [
+        "source-archive-paper-08"
+      ],
+      "year": 2024,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-09",
+      "type": "publication",
+      "title": "Can digital self-harm relate to suicidal thoughts and behaviors beyond physical self-harm?",
+      "summary": "Digital self-harm was associated with suicidal thoughts and behaviors even after accounting for physical self-harm.",
+      "url": "publications.html#archive-paper-09",
+      "sourceIds": [
+        "source-archive-paper-09"
+      ],
+      "year": 2024,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-10",
+      "type": "publication",
+      "title": "Brain structural and functional signatures of multi-generational family history of suicidal behaviors in preadolescent children",
+      "summary": "A history of suicidal behavior across generations was associated with higher risk and differences in brain measures in preadolescents.",
+      "url": "publications.html#archive-paper-10",
+      "sourceIds": [
+        "source-archive-paper-10"
+      ],
+      "year": 2024,
+      "todo": [
+        "Add any remaining authors after confirming their directory records."
+      ]
+    },
+    {
+      "id": "archive-paper-11",
+      "type": "publication",
+      "title": "Effectiveness of a localised and systematically developed gatekeeper training program in preventing suicide among Chinese adolescents",
+      "summary": "Teachers in two early evaluations reported better suicide literacy or intervention skills after Gatekeeper training.",
+      "url": "publications.html#archive-paper-11",
+      "sourceIds": [
+        "source-archive-paper-11"
+      ],
+      "year": 2023,
+      "todo": [
+        "Verify the author list against the paper and the lab directory."
+      ]
+    },
+    {
+      "id": "archive-paper-12",
+      "type": "publication",
+      "title": "Development of the Life Gatekeeper suicide prevention training programme in China: a Delphi study",
+      "summary": "Experts endorsed 201 of 207 proposed statements used to design the Life Gatekeeper training program.",
+      "url": "publications.html#archive-paper-12",
+      "sourceIds": [
+        "source-archive-paper-12"
+      ],
+      "year": 2023,
+      "todo": [
+        "Verify the author list against the paper and the lab directory."
+      ]
+    },
+    {
+      "id": "archive-paper-13",
+      "type": "publication",
+      "title": "Ecological Momentary Assessment and Machine Learning for Predicting Suicidal Ideation Among Sexual and Gender Minority Individuals",
+      "summary": "Daily smartphone reports of mood and stress predicted suicidal thoughts at one month better than baseline measures in this study.",
+      "url": "publications.html#archive-paper-13",
+      "sourceIds": [
+        "source-archive-paper-13"
+      ],
+      "year": 2023,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-14",
+      "type": "publication",
+      "title": "Non-suicidal self-injury in Chinese population: a scoping review of prevalence, method, risk factors and preventive interventions",
+      "summary": "The review found many studies of risk factors for self-injury in China and only 12 empirical studies of prevention or intervention.",
+      "url": "publications.html#archive-paper-14",
+      "sourceIds": [
+        "source-archive-paper-14"
+      ],
+      "year": 2023,
+      "todo": [
+        "Verify the author list against the paper and the lab directory."
+      ]
+    },
+    {
+      "id": "archive-paper-15",
+      "type": "publication",
+      "title": "Associations of bullying perpetration and peer victimization subtypes with preadolescent's suicidality, non-suicidal self-injury, neurocognition, and brain development",
+      "summary": "Bullying and peer victimization were associated with self-injury, suicide risk, and differences in cognition and brain measures.",
+      "url": "publications.html#archive-paper-15",
+      "sourceIds": [
+        "source-archive-paper-15"
+      ],
+      "year": 2023,
+      "todo": [
+        "Verify the author list against the paper and the lab directory."
+      ]
+    },
+    {
+      "id": "archive-paper-16",
+      "type": "publication",
+      "title": "A multicomponent digital intervention to promote help-seeking for mental health problems and suicide in sexual and gender diverse young adults: a randomized controlled trial",
+      "summary": "Young adults who received the digital intervention reported stronger intentions to seek help through the three-month follow-up.",
+      "url": "publications.html#archive-paper-16",
+      "sourceIds": [
+        "source-archive-paper-16"
+      ],
+      "year": 2023,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-17",
+      "type": "publication",
+      "title": "The transition trajectories of self-injurious thoughts and behaviours among children from a biopsychosocial perspective",
+      "summary": "Changes in self-injury were associated with brain and symptom measures. Family and school support were associated with lower risk.",
+      "url": "publications.html#archive-paper-17",
+      "sourceIds": [
+        "source-archive-paper-17"
+      ],
+      "year": 2023,
+      "todo": [
+        "Add any remaining authors after confirming their directory records."
+      ]
+    },
+    {
+      "id": "archive-paper-18",
+      "type": "publication",
+      "title": "Blind box over-engagement and suicide risk among adolescents and young adults: results of a large-scale survey",
+      "summary": "Buying randomized collectible boxes was associated with higher suicide risk in a survey of more than 73,000 college students.",
+      "url": "publications.html#archive-paper-18",
+      "sourceIds": [
+        "source-archive-paper-18"
+      ],
+      "year": 2022,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project."
+      ]
+    },
+    {
+      "id": "archive-paper-19",
+      "type": "publication",
+      "title": "Precision biomarkers for mood disorders based on brain imaging",
+      "summary": "This article discusses how brain imaging could help distinguish different patterns of mood disorders.",
+      "url": "publications.html#archive-paper-19",
+      "sourceIds": [
+        "source-archive-paper-19"
+      ],
+      "year": 2020,
+      "todo": [
+        "Verify the author list against the paper and the lab directory.",
+        "Confirm any relationship to a named lab project.",
+        "Confirm whether this paper fits a current research theme."
+      ]
+    },
+    {
+      "id": "grant-82471564",
+      "type": "grant",
+      "title": "National Natural Science Foundation of China · 82471564",
+      "summary": "Acknowledged in the lab’s interoception review.",
+      "url": "funding.html",
+      "sourceIds": [
+        "funding"
+      ],
+      "todo": [
+        "Confirm the grant year."
+      ]
+    },
+    {
+      "id": "grant-100009001",
+      "type": "grant",
+      "title": "Vanke School of Public Health Research Fund · 100009001",
+      "summary": "Acknowledged in the published Life Gatekeeper trial.",
+      "url": "funding.html",
+      "sourceIds": [
+        "funding"
+      ],
+      "todo": [
+        "Confirm the grant year."
+      ]
+    },
+    {
+      "id": "grant-100009002",
+      "type": "grant",
+      "title": "Talented Research Fund of Tsinghua University · 100009002",
+      "summary": "Acknowledged in the Life Gatekeeper trial protocol.",
+      "url": "funding.html",
+      "sourceIds": [
+        "funding"
+      ],
+      "todo": [
+        "Confirm the grant year."
+      ]
+    },
+    {
+      "id": "grant-mood",
+      "type": "grant",
+      "title": "National Natural Science Foundation of China",
+      "summary": "Three-year award for research on mechanisms of mood disorders, announced in October 2022.",
+      "url": "funding.html",
+      "sourceIds": [
+        "funding"
+      ],
+      "year": 2022
+    },
+    {
+      "id": "grant-moe",
+      "type": "grant",
+      "title": "Ministry of Education of China Humanities and Social Sciences funding",
+      "summary": "Three-year award for school-based prevention of non-suicidal self-harm, announced in July 2022.",
+      "url": "funding.html",
+      "sourceIds": [
+        "funding"
+      ],
+      "year": 2022
+    }
+  ],
+  "edges": [
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "research"
+      ],
+      "from": "neuroscience"
+    },
+    {
+      "to": "neuroscience",
+      "type": "projectMember",
+      "sourceIds": [
+        "neuroscience"
+      ],
+      "role": "Project leader",
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "neuroscience",
+      "type": "projectMember",
+      "sourceIds": [
+        "neuroscience"
+      ],
+      "role": "Project leader",
+      "from": "person-xue-wen"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "research"
+      ],
+      "from": "a-help"
+    },
+    {
+      "to": "a-help",
+      "type": "projectMember",
+      "sourceIds": [
+        "a-help"
+      ],
+      "role": "Project leader",
+      "from": "person-juan-wang"
+    },
+    {
+      "to": "a-help",
+      "type": "projectMember",
+      "sourceIds": [
+        "a-help"
+      ],
+      "role": "Project leader",
+      "from": "person-yinan-duan"
+    },
+    {
+      "to": "schools",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "research"
+      ],
+      "from": "school-prevention"
+    },
+    {
+      "to": "school-prevention",
+      "type": "projectMember",
+      "sourceIds": [
+        "school-prevention"
+      ],
+      "role": "Project leader",
+      "from": "person-xuan-zhang"
+    },
+    {
+      "to": "school-prevention",
+      "type": "projectMember",
+      "sourceIds": [
+        "school-prevention"
+      ],
+      "role": "Project leader",
+      "from": "person-dongyang-chen"
+    },
+    {
+      "to": "schools",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "research"
+      ],
+      "from": "life-gatekeeper"
+    },
+    {
+      "to": "life-gatekeeper",
+      "type": "projectMember",
+      "sourceIds": [
+        "life-gatekeeper"
+      ],
+      "role": "Project leader",
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "digital",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "research"
+      ],
+      "from": "virtual-reality"
+    },
+    {
+      "to": "virtual-reality",
+      "type": "projectMember",
+      "sourceIds": [
+        "virtual-reality"
+      ],
+      "role": "Project leader",
+      "from": "person-quan-zhang"
+    },
+    {
+      "to": "digital",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "research"
+      ],
+      "from": "tea"
+    },
+    {
+      "to": "tea",
+      "type": "projectMember",
+      "sourceIds": [
+        "tea"
+      ],
+      "role": "Project leader",
+      "from": "person-yuhao-he"
+    },
+    {
+      "to": "digital",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "research"
+      ],
+      "from": "speech"
+    },
+    {
+      "to": "speech",
+      "type": "projectMember",
+      "sourceIds": [
+        "speech"
+      ],
+      "role": "Project leader",
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "digital",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "research"
+      ],
+      "from": "monitoring"
+    },
+    {
+      "to": "monitoring",
+      "type": "projectMember",
+      "sourceIds": [
+        "monitoring"
+      ],
+      "role": "Project leader",
+      "from": "person-xuan-geng"
+    },
+    {
+      "to": "monitoring",
+      "type": "projectMember",
+      "sourceIds": [
+        "monitoring"
+      ],
+      "role": "Project leader",
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "interoception",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "paper-interoception"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "from": "person-zhijun-wu"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "from": "person-jintao-guo"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "from": "person-sihan-liu"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "from": "person-xue-wen"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "schools",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "paper-gatekeeper"
+    },
+    {
+      "to": "life-gatekeeper",
+      "type": "reportsOn",
+      "sourceIds": [
+        "life-gatekeeper"
+      ],
+      "from": "paper-gatekeeper"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-xuan-zhang"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-chengxi-cai"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-dongyang-chen"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-dongyu-liu"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-xue-wen"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-zhijun-wu"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "digital",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "paper-digital"
+    },
+    {
+      "to": "paper-digital",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-digital"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "paper-digital",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-digital"
+      ],
+      "from": "person-dennis-chong"
+    },
+    {
+      "to": "paper-digital",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-digital"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "paper-digital",
+      "type": "authored",
+      "sourceIds": [
+        "source-paper-digital"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-01"
+    },
+    {
+      "to": "archive-paper-01",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-01"
+      ],
+      "from": "person-xue-wen"
+    },
+    {
+      "to": "archive-paper-01",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-01"
+      ],
+      "from": "person-shihui-wang"
+    },
+    {
+      "to": "archive-paper-01",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-01"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-02"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-03"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-04"
+    },
+    {
+      "to": "schools",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-05"
+    },
+    {
+      "to": "digital",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-07"
+    },
+    {
+      "to": "speech",
+      "type": "reportsOn",
+      "sourceIds": [
+        "speech"
+      ],
+      "from": "archive-paper-07"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-08"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-09"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-10"
+    },
+    {
+      "to": "neuroscience",
+      "type": "citedByProject",
+      "sourceIds": [
+        "neuroscience"
+      ],
+      "from": "archive-paper-10"
+    },
+    {
+      "to": "archive-paper-10",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-10"
+      ],
+      "from": "person-xue-wen"
+    },
+    {
+      "to": "archive-paper-10",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-10"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "archive-paper-10",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-10"
+      ],
+      "from": "person-dongyu-liu"
+    },
+    {
+      "to": "archive-paper-10",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-10"
+      ],
+      "from": "person-xuan-zhang"
+    },
+    {
+      "to": "archive-paper-10",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-10"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "schools",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-11"
+    },
+    {
+      "to": "life-gatekeeper",
+      "type": "reportsOn",
+      "sourceIds": [
+        "life-gatekeeper"
+      ],
+      "from": "archive-paper-11"
+    },
+    {
+      "to": "schools",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-12"
+    },
+    {
+      "to": "life-gatekeeper",
+      "type": "reportsOn",
+      "sourceIds": [
+        "life-gatekeeper"
+      ],
+      "from": "archive-paper-12"
+    },
+    {
+      "to": "digital",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-13"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-14"
+    },
+    {
+      "to": "neuroscience",
+      "type": "citedByProject",
+      "sourceIds": [
+        "neuroscience"
+      ],
+      "from": "archive-paper-14"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-15"
+    },
+    {
+      "to": "neuroscience",
+      "type": "citedByProject",
+      "sourceIds": [
+        "neuroscience"
+      ],
+      "from": "archive-paper-15"
+    },
+    {
+      "to": "digital",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-16"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-17"
+    },
+    {
+      "to": "neuroscience",
+      "type": "citedByProject",
+      "sourceIds": [
+        "neuroscience"
+      ],
+      "from": "archive-paper-17"
+    },
+    {
+      "to": "archive-paper-17",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-17"
+      ],
+      "from": "person-xue-wen"
+    },
+    {
+      "to": "archive-paper-17",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-17"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "archive-paper-17",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-17"
+      ],
+      "from": "person-xuan-zhang"
+    },
+    {
+      "to": "archive-paper-17",
+      "type": "authored",
+      "sourceIds": [
+        "source-archive-paper-17"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "development",
+      "type": "belongsToTheme",
+      "sourceIds": [
+        "publication-list"
+      ],
+      "basis": "Editorial grouping by subject",
+      "from": "archive-paper-18"
+    },
+    {
+      "to": "person-chang-lei",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-diyang-qu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-jintao-guo",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-runsen-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-sihan-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-diyang-qu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-digital"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "person-jintao-guo",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "person-runsen-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-digital"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "person-sihan-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "person-jintao-guo",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "person-runsen-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper",
+        "paper-digital",
+        "archive-paper-10",
+        "archive-paper-17"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "person-sihan-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper",
+        "archive-paper-10",
+        "archive-paper-17"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "person-runsen-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-jintao-guo"
+    },
+    {
+      "to": "person-sihan-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-jintao-guo"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-jintao-guo"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-jintao-guo"
+    },
+    {
+      "to": "person-sihan-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper",
+        "archive-paper-01",
+        "archive-paper-10",
+        "archive-paper-17"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-sihan-liu"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception"
+      ],
+      "from": "person-sihan-liu"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-interoception"
+      ],
+      "publicationIds": [
+        "paper-interoception",
+        "paper-gatekeeper"
+      ],
+      "from": "person-xue-wen"
+    },
+    {
+      "to": "person-chengxi-cai",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-dongyang-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-dongyu-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-xuan-zhang",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-bowen-liu"
+    },
+    {
+      "to": "person-diyang-qu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-chengxi-cai"
+    },
+    {
+      "to": "person-dongyang-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-chengxi-cai"
+    },
+    {
+      "to": "person-dongyu-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-chengxi-cai"
+    },
+    {
+      "to": "person-runsen-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-chengxi-cai"
+    },
+    {
+      "to": "person-xuan-zhang",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-chengxi-cai"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-chengxi-cai"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-chengxi-cai"
+    },
+    {
+      "to": "person-dongyang-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "person-dongyu-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper",
+        "archive-paper-10"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "person-xuan-zhang",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper",
+        "archive-paper-10",
+        "archive-paper-17"
+      ],
+      "from": "person-diyang-qu"
+    },
+    {
+      "to": "person-dongyu-liu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-dongyang-chen"
+    },
+    {
+      "to": "person-runsen-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-dongyang-chen"
+    },
+    {
+      "to": "person-xuan-zhang",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-dongyang-chen"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-dongyang-chen"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-dongyang-chen"
+    },
+    {
+      "to": "person-runsen-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper",
+        "archive-paper-10"
+      ],
+      "from": "person-dongyu-liu"
+    },
+    {
+      "to": "person-xuan-zhang",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper",
+        "archive-paper-10"
+      ],
+      "from": "person-dongyu-liu"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper",
+        "archive-paper-10"
+      ],
+      "from": "person-dongyu-liu"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-dongyu-liu"
+    },
+    {
+      "to": "person-xuan-zhang",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper",
+        "archive-paper-10",
+        "archive-paper-17"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper",
+        "archive-paper-10",
+        "archive-paper-17"
+      ],
+      "from": "person-xuan-zhang"
+    },
+    {
+      "to": "person-zhijun-wu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-gatekeeper"
+      ],
+      "publicationIds": [
+        "paper-gatekeeper"
+      ],
+      "from": "person-xuan-zhang"
+    },
+    {
+      "to": "person-dennis-chong",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-digital"
+      ],
+      "publicationIds": [
+        "paper-digital"
+      ],
+      "from": "person-chang-lei"
+    },
+    {
+      "to": "person-diyang-qu",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-digital"
+      ],
+      "publicationIds": [
+        "paper-digital"
+      ],
+      "from": "person-dennis-chong"
+    },
+    {
+      "to": "person-runsen-chen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-paper-digital"
+      ],
+      "publicationIds": [
+        "paper-digital"
+      ],
+      "from": "person-dennis-chong"
+    },
+    {
+      "to": "person-shihui-wang",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-archive-paper-01"
+      ],
+      "publicationIds": [
+        "archive-paper-01"
+      ],
+      "from": "person-runsen-chen"
+    },
+    {
+      "to": "person-xue-wen",
+      "type": "coauthored",
+      "sourceIds": [
+        "source-archive-paper-01"
+      ],
+      "publicationIds": [
+        "archive-paper-01"
+      ],
+      "from": "person-shihui-wang"
+    },
+    {
+      "to": "paper-interoception",
+      "type": "funded",
+      "sourceIds": [
+        "funding"
+      ],
+      "basis": "Funding acknowledged in the source",
+      "from": "grant-82471564"
+    },
+    {
+      "to": "paper-gatekeeper",
+      "type": "funded",
+      "sourceIds": [
+        "funding"
+      ],
+      "basis": "Funding acknowledged in the source",
+      "from": "grant-100009001"
+    },
+    {
+      "to": "life-gatekeeper",
+      "type": "funded",
+      "sourceIds": [
+        "funding"
+      ],
+      "basis": "Funding acknowledged in the source",
+      "from": "grant-100009002"
+    },
+    {
+      "to": "school-prevention",
+      "type": "funded",
+      "sourceIds": [
+        "funding"
+      ],
+      "basis": "Funding acknowledged in the source",
+      "from": "grant-moe"
+    }
+  ],
+  "sources": [
+    {
+      "id": "research",
+      "title": "YMH Lab research areas",
+      "url": "research.html"
+    },
+    {
+      "id": "people",
+      "title": "YMH Lab team directory",
+      "url": "people.html"
+    },
+    {
+      "id": "funding",
+      "title": "YMH Lab funding acknowledgments",
+      "url": "funding.html"
+    },
+    {
+      "id": "publication-list",
+      "title": "YMH Lab publication archive",
+      "url": "publications.html#archive-title"
+    },
+    {
+      "id": "neuroscience",
+      "title": "Cognitive and developmental neuroscience of suicide and non-suicidal self-injury",
+      "url": "project-neuroscience.html"
+    },
+    {
+      "id": "a-help",
+      "title": "Adolescent Health Enhancing Long-term Plan (A-HELP)",
+      "url": "project-a-help.html"
+    },
+    {
+      "id": "school-prevention",
+      "title": "Universal prevention of non-suicidal self-injury",
+      "url": "project-school-prevention.html"
+    },
+    {
+      "id": "life-gatekeeper",
+      "title": "Life Gatekeeper training",
+      "url": "project-life-gatekeeper.html"
+    },
+    {
+      "id": "virtual-reality",
+      "title": "Virtual reality for mental health",
+      "url": "project-virtual-reality.html"
+    },
+    {
+      "id": "tea",
+      "title": "Training for Emotional Adaptation (TEA)",
+      "url": "project-tea.html"
+    },
+    {
+      "id": "speech",
+      "title": "Speech-based suicide risk research",
+      "url": "project-speech.html"
+    },
+    {
+      "id": "monitoring",
+      "title": "Real-time monitoring and intervention",
+      "url": "project-monitoring.html"
+    },
+    {
+      "id": "source-paper-interoception",
+      "title": "Interoception in self-harm and suicide",
+      "url": "https://doi.org/10.1038/s41562-026-02490-9"
+    },
+    {
+      "id": "source-paper-gatekeeper",
+      "title": "School-based suicide prevention using the gatekeeper programme",
+      "url": "https://doi.org/10.1038/s44360-025-00037-2"
+    },
+    {
+      "id": "source-paper-digital",
+      "title": "Brief digital intervention for adolescents with non-suicidal self-injury",
+      "url": "https://doi.org/10.1111/jcpp.70054"
+    },
+    {
+      "id": "source-archive-paper-01",
+      "title": "Genetic and Neurobiological Mechanisms Underlying Transition in Self-Injury Thoughts and Behaviors During Adolescence",
+      "url": "https://doi.org/10.1192/bjp.2025.10300"
+    },
+    {
+      "id": "source-archive-paper-02",
+      "title": "Multitrait genome-wide association analysis of non-suicidal self-injury and the polygenetic effects on child psychopathology and brain structures",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00192-2"
+    },
+    {
+      "id": "source-archive-paper-03",
+      "title": "Genetic approach uncovering the pathways between childhood maltreatment and suicide attempt",
+      "url": "https://www.nature.com/articles/s41380-025-02966-6"
+    },
+    {
+      "id": "source-archive-paper-04",
+      "title": "Understanding Social Influence of Non-Suicidal Self-Injury: The Interplay of Peer Networks and Adolescent Behavior",
+      "url": "https://link.springer.com/article/10.1007/s10964-025-02178-9"
+    },
+    {
+      "id": "source-archive-paper-05",
+      "title": "School mental health prevention and intervention strategies in China: a scoping review",
+      "url": "https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(24)00237-2/fulltext"
+    },
+    {
+      "id": "source-archive-paper-06",
+      "title": "Complex posttraumatic stress disorder (CPTSD) is uniquely linked to suicidality beyond posttraumatic stress disorder (PTSD) in adults with childhood maltreatment: A multinational study across four countries",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0277953624008608"
+    },
+    {
+      "id": "source-archive-paper-07",
+      "title": "Spontaneous Speech-Based Suicide Risk Detection Using Whisper and Large Language Models",
+      "url": "https://arxiv.org/abs/2406.03882"
+    },
+    {
+      "id": "source-archive-paper-08",
+      "title": "The p factor outweighs the specific internalizing factor in predicting recurrences of adolescent depression",
+      "url": "https://www.cambridge.org/core/journals/european-psychiatry/article/p-factor-outweighs-the-specific-internalizing-factor-in-predicting-recurrences-of-adolescent-depression/9A5C35C5AA47CAC621B7CA8CB55C9BC9"
+    },
+    {
+      "id": "source-archive-paper-09",
+      "title": "Can digital self-harm relate to suicidal thoughts and behaviors beyond physical self-harm?",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/acps.13658"
+    },
+    {
+      "id": "source-archive-paper-10",
+      "title": "Brain structural and functional signatures of multi-generational family history of suicidal behaviors in preadolescent children",
+      "url": "https://www.nature.com/articles/s41380-023-02342-2"
+    },
+    {
+      "id": "source-archive-paper-11",
+      "title": "Effectiveness of a localised and systematically developed gatekeeper training program in preventing suicide among Chinese adolescents",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1876201823003118"
+    },
+    {
+      "id": "source-archive-paper-12",
+      "title": "Development of the Life Gatekeeper suicide prevention training programme in China: a Delphi study",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10582848/"
+    },
+    {
+      "id": "source-archive-paper-13",
+      "title": "Ecological Momentary Assessment and Machine Learning for Predicting Suicidal Ideation Among Sexual and Gender Minority Individuals",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2809148"
+    },
+    {
+      "id": "source-archive-paper-14",
+      "title": "Non-suicidal self-injury in Chinese population: a scoping review of prevalence, method, risk factors and preventive interventions",
+      "url": "https://www.thelancet.com/journals/lanwpc/article/PIIS2666-6065(23)00112-8/fulltext"
+    },
+    {
+      "id": "source-archive-paper-15",
+      "title": "Associations of bullying perpetration and peer victimization subtypes with preadolescent's suicidality, non-suicidal self-injury, neurocognition, and brain development",
+      "url": "https://link.springer.com/article/10.1186/s12916-023-02808-8"
+    },
+    {
+      "id": "source-archive-paper-16",
+      "title": "A multicomponent digital intervention to promote help-seeking for mental health problems and suicide in sexual and gender diverse young adults: a randomized controlled trial",
+      "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1004197"
+    },
+    {
+      "id": "source-archive-paper-17",
+      "title": "The transition trajectories of self-injurious thoughts and behaviours among children from a biopsychosocial perspective",
+      "url": "https://www.nature.com/articles/s44220-023-00130-z"
+    },
+    {
+      "id": "source-archive-paper-18",
+      "title": "Blind box over-engagement and suicide risk among adolescents and young adults: results of a large-scale survey",
+      "url": "https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00305-4/fulltext"
+    },
+    {
+      "id": "source-archive-paper-19",
+      "title": "Precision biomarkers for mood disorders based on brain imaging",
+      "url": "https://www.bmj.com/content/371/bmj.m3618.abstract"
+    }
+  ]
+}
