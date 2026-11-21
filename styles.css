@@ -214,3 +214,9 @@ footer { border-block-start: 1px solid var(--line); background: var(--wash); }
   .atlas-network-layout { grid-template-columns: minmax(0, 1fr) minmax(16rem, 23%); align-items: start; }
   .atlas-network-layout .atlas-details { position: sticky; top: 1rem; max-height: calc(100vh - 2rem); overflow: auto; }
 }
+
+.bibliography-list { margin-top: .8rem; padding-inline-start: 1.4rem; }
+.bibliography-list li { padding-block: .65rem; border-top: 1px solid var(--line); }
+.bibliography-title { font-weight: 650; }
+.bibliography-list p { color: var(--muted); }
+.bibliography-meta { font-size: .9375rem; }
