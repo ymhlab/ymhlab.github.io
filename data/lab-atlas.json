@@ -1416,6 +1416,17 @@
       "todo": [
         "Add selected publications once confirmed."
       ]
+    },
+    {
+      "id": "person-xinru-wang",
+      "type": "person",
+      "title": "王欣如 (Xinru Wang)",
+      "role": "Research Assistant",
+      "summary": "Interoception, emotion regulation, coping with stress, and school-based mental health education for children and adolescents.",
+      "url": "people.html#profile-xinru-wang",
+      "sourceIds": [
+        "profile-xinru-wang"
+      ]
     }
   ],
   "edges": [
@@ -2990,6 +3001,11 @@
       "id": "profile-jaden",
       "title": "Jaden Huynh’s submitted lab profile",
       "url": "people.html#profile-jaden"
+    },
+    {
+      "id": "profile-xinru-wang",
+      "title": "Xinru Wang’s submitted lab profile",
+      "url": "people.html#profile-xinru-wang"
     }
   ]
 }
