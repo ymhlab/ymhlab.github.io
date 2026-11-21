@@ -1402,6 +1402,20 @@
         "funding"
       ],
       "year": 2022
+    },
+    {
+      "id": "person-jaden-huynh",
+      "type": "person",
+      "title": "Jaden Huynh (黃智康)",
+      "summary": "Digital and wearable approaches to youth suicide prevention, school-based help-seeking, and cross-cultural mental health measurement.",
+      "url": "people.html#profile-jaden",
+      "role": "First-year PhD student",
+      "sourceIds": [
+        "profile-jaden"
+      ],
+      "todo": [
+        "Add selected publications once confirmed."
+      ]
     }
   ],
   "edges": [
@@ -2971,6 +2985,11 @@
       "id": "source-archive-paper-19",
       "title": "Precision biomarkers for mood disorders based on brain imaging",
       "url": "https://www.bmj.com/content/371/bmj.m3618.abstract"
+    },
+    {
+      "id": "profile-jaden",
+      "title": "Jaden Huynh’s submitted lab profile",
+      "url": "people.html#profile-jaden"
     }
   ]
 }
