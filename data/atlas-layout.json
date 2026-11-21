@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "maxNodesPerTheme": 10,
+  "columns": 2,
+  "rows": 5,
+  "themeOrder": [
+    "development",
+    "interoception",
+    "schools",
+    "digital"
+  ]
+}
